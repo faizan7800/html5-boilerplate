@@ -51,7 +51,7 @@ Choose one of the following options:
   project, instantly fetch the latest npm published package (or any version
   available on npm) with `npx`, `npm init` or `yarn create` without having to
   install any dependencies. Running the following `npx` command installs the
-  latest version into a folder called `new-site`
+  latest version into a folder called `new-site`.
 
   ```
   npx create-html5-boilerplate new-site
@@ -67,14 +67,14 @@ Choose one of the following options:
 * Designed with progressive enhancement in mind.
 * Includes:
   * [`Normalize.css`](https://necolas.github.com/normalize.css/)
-    for CSS normalizations and common bug fixes
+    for CSS normalizations and common bug fixes.
   * A custom build of [`Modernizr`](https://modernizr.com/) for feature
-    detection
+    detection.
   * [`Apache Server Configs`](https://github.com/h5bp/server-configs-apache)
-    that improve the web site's performance and security
+    that improve the web site's performance and security.
 * Placeholder Open Graph elements and attributes.
 * An example package.json file with [Parcel](https://parceljs.org/) commands
-  built in to jumpstart application development
+  built in to jumpstart application development.
 * Placeholder CSS Media Queries.
 * Useful CSS helper classes.
 * Default print styles, performance optimized.
